@@ -15,6 +15,6 @@ I earned my B.S. in physics with a concentration in astrophysics from Towson Uni
 
 I have also developed a passion for science policy. For three years, I have been a member of the Division for Planetary Sciences' Federal Relations Subcommittee where we advocate for planetary science research and funding. 
 
-<img align="right" width="360" style="padding: 10px" src='/images/Mars_IDD.jpg'>
+<!-- -<img align="right" width="360" style="padding: 10px" src='/images/Mars_IDD.jpg'> -->
 
 In my free time I enjoy exercising and hanging out with my cat, Tuba. 
