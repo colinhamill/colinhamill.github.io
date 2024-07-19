@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /policy/
 title: "Policy"
 excerpt: "Policy"
 author_profile: true
