@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Riley McGlasson"
-  avatar           : "Me+babyradar crop.JPG"
+  name             : "Colin Hamill"
+  avatar           : "ProfilePic2.JPG"
   bio              : "Planetary science PhD candidate at Purdue University"
   location         : "West Lafayette, IN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6zjL70AAAAAJ&view_op=list_works"
-  email            : "rmcglass (at) purdue (dot) edu"
+  googlescholar    : "https://scholar.google.com/citations?user=K76VbFQAAAAJ&hl=en"
+  email            : "hamillc (at) purdue (dot) edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rmcglass"
+  github           : "colinhamill"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9464-8494"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
