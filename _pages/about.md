@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fifth year PhD candidate at Purdue University in the Department of Earth Atmospheric and Planetary Sciences, where I work with professor Alexandria Johnson. My current research interests involve exoplanetary atmospheres and their clouds. My research in the Johnson Cloud Lab has utilized laboratory and modelling efforts to better understand how exotic cloud condensates scatter light and impact observations
 
-I earned my B.A. in physics with an emphasis in astronomy and a math minor from Macalester College in May 2020. There, my research interests took me on a tour of our local universe, exploring bulk kinematics of dwarf galaxies, small-scale plasma eruptions in the Solar corona, and finally performing observations of near-Earth asteroids at the Arecibo Observatory. Through the Arecibo Observatory REU program, I discovered my love for radar observations while developing a radar-based model of the potentially-hazardous asteroid Midas.
+I earned my B.S. in physics with a concentration in astrophysics from Towson University in May 2020. During my undergraduate research, I studied properties of the circumgalactic medium, 
 
 Informal education is also something I am very passionate about! Over the past four years I have enjoyed developing general-audience astronomy programs through different mediums. Some [highlights](https://rmcglass.github.io/outreach/) include hosting Radio Astronomy, an astronomy talk radio program on Macalester College Radio (WMCN 91.7 FM St. Paul, MN), and an internship as an astronomy ranger at Bryce Canyon National Park in the summer of 2019.
 
