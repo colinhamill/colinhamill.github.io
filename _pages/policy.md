@@ -9,4 +9,4 @@ redirect_from:
 ---
 ## Welcome!
 
-coming soon
+coming soon...
