@@ -1,5 +1,5 @@
 ---
-permalink: /press/
+<!--permalink: /press/
 title: "In the News!"
 author_profile: true
 
