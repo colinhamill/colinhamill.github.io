@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "colinhamill"
+  github           : #"colinhamill"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/colin-hamill-3b0ba216b/"
   orcid            : "https://orcid.org/0000-0002-9464-8494"
   pinterest        :
   soundcloud       :
