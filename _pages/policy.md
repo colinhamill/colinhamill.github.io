@@ -4,7 +4,7 @@ title: "Policy"
 excerpt: "Policy"
 author_profile: true
 redirect_from: 
-  - /policy/
+  - /policy
   - /policy.html
 ---
 ## Welcome!
