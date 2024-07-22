@@ -5,12 +5,15 @@ main:
     
   - title: "CV"
     url: /cv/
+
+- title: "Research"
+    url: /research/
     
   - title: "Policy"
     url: /policy/
     
-  - title: "In the news!"
-    url: /press/
+#  - title: "In the news!"
+ #   url: /press/
   
   #- title: "Photo Gallery"
   #  url: /portfolio/
