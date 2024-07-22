@@ -12,4 +12,4 @@ My interest in science policy was solidified after I atteneded the American Mete
 
 ...
 
- <img align="right" width="360" style="padding: 10px" src='images/IMG_8541.pdf'>
+ <img align="right" width="360" style="padding: 10px" src='images/HoosierHuddle.png'>
