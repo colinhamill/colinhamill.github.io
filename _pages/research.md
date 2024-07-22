@@ -10,6 +10,3 @@ redirect_from:
 
 coming soon.
 
- <!-- <div style="text-align: center;">
-  <img width="360" style="padding: 10px" src='/images/HoosierHuddle.png'>
-</div>
