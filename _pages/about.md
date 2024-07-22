@@ -13,6 +13,6 @@ I am a fifth year PhD candidate at Purdue University in the Department of Earth 
 
 I earned my B.S. in physics with a concentration in astrophysics from Towson University in May 2020. During my undergraduate research, I studied the circumgalactic medium, meteorites, and volatile deposits near Mercury's poles. Through an extended internship at the Applied Physics Lab, I discovered a passion for planetary science and laboratory work. I also have a passion for science policy. For three years, I have been a member of the Division for Planetary Sciences' Federal Relations Subcommittee where we advocate for a balanced and world-class planetary science program in the United States.
 
--<img align="right" width="360" style="padding: 10px" src='/images/Mars_IDD.jpg'> -->
+<!-- -<img align="right" width="360" style="padding: 10px" src='/images/Mars_IDD.jpg'> -->
 
 In my free time I enjoy exercising and hanging out with my cat, Tuba. 
