@@ -10,3 +10,6 @@ redirect_from:
 
 coming soon.
 
+ <div style="text-align: center;">
+  <img width="360" style="padding: 10px" src='/images/EnsembleSystem_Crop_120721.png'>
+</div>
