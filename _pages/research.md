@@ -18,3 +18,7 @@ For my more recent researh projects, I use the radiative transfer model PICASO t
 
 Throughout my undergraduate research, I had the chance to work on a variety of research projects in the space sciences. I started by studying properties of the circumgalactic medium of low-redshift galaxies with Prof. Jennifer Scott at Towson University. At the Applied Physics Lab with Dr. Nancy Chabot, I studied the thermal and illumination conditions of permanently-shadowed volatile deposits in Mercury's polar regions, and published a first-author paper on some of our results. I also had the opportunity to work in APL's Meteorite Lab, where I concocted lab-made meteorites using a high-temperature furnace in order to better understand the effects of troilite (FeS) formation on trace element chemistry.
 
+ <div style="text-align: center;">
+  <img width="360" style="padding: 10px" src='/images/APL_Lab.png'>
+</div>
+
